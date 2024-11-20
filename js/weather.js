@@ -1,5 +1,5 @@
-const openWeatherApiKey = 'eba268ad2b5604ed8636f5e57ce3cebf';
-const googleMapsApiKey = 'AIzaSyBdrbcmaVg00iq45x6iIx5EZ4k-G9tQPY0';
+const openWeatherApiKey = '';
+const googleMapsApiKey = '';
 
 // Function to get URL parameters
 function getQueryParams() {
