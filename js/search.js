@@ -1,6 +1,6 @@
-const openWeatherApiKey = 'eba268ad2b5604ed8636f5e57ce3cebf';
+const openWeatherApiKey = '';
 
-const googleMapsApiKey = 'AIzaSyBdrbcmaVg00iq45x6iIx5EZ4k-G9tQPY0';
+const googleMapsApiKey = '';
 
 let selectedPlaceCoordinates = null; // Variable to store the selected place's coordinates
 
